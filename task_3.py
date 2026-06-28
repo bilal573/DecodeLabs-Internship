@@ -146,3 +146,4 @@ for cluster_num in sorted(df_retail['Target_Cluster'].unique()):
         print("Persona Label: LOW-ACTIVITY CHURN RISK")
         print("Business Strategy: Re-engagement campaigns aur heavy discount offer kar ke vapas laya jaye.")
     print("-" * 40)
+    # bilal
