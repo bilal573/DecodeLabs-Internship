@@ -1,5 +1,5 @@
 
-This repository contains my Task 1 submission.
+This repository contains my all Task of Internship submission.
 
 ## Author
 Bilal Ahmed
